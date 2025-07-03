@@ -1,0 +1,2 @@
+# yhot
+all openwrt
