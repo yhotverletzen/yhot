@@ -8,20 +8,20 @@ const apiEmail = ""; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "https://raw.githubusercontent.com/mrsyd-my/proxycf/refs/heads/main/ProxyList.txt";
+let proxyIP = "https://raw.githubusercontent.com/yhotverletzen/yhot/refs/heads/main/ProxyListnetopen.txt";
 let cachedProxyList = [];
 
 // Constant
 const APP_DOMAIN = `${serviceName}.${rootDomain}`;
 const PORTS = [443, 80];
 const PROTOCOLS = [reverse("najort"), reverse("sselv"), reverse("ss")];
-const KV_PROXY_URL = "https://raw.githubusercontent.com/mrsyd-my/proxycf/refs/heads/main/kvProxyList.json";
-const PROXY_BANK_URL = "https://raw.githubusercontent.com/mrsyd-my/proxycf/refs/heads/main/ProxyList.txt";
+const KV_PROXY_URL = "https://raw.githubusercontent.com/yhotverletzen/yhot/refs/heads/main/kvProxyList.json";
+const PROXY_BANK_URL = "https://raw.githubusercontent.com/yhotverletzen/yhot/refs/heads/main/ProxyListnetopen.txt";
 const DNS_SERVER_ADDRESS = "8.8.8.8";
 const DNS_SERVER_PORT = 53;
 const PROXY_HEALTH_CHECK_API = "https://id1.foolvpn.me/api/v1/check";
 const CONVERTER_URL = "https://api.foolvpn.me/convert";
-const DONATE_LINK = "https://suryd.biz.id";
+const DONATE_LINK = ""; //https://suryd.biz.id
 const PROXY_PER_PAGE = 24;
 const WS_READY_STATE_OPEN = 1;
 const WS_READY_STATE_CLOSING = 2;
@@ -114,7 +114,7 @@ function getAllConfig(request, hostName, proxyList, page = 0) {
 
     // Build HTML
     const document = new Document(request);
-    document.setTitle("Welcome to <span class='text-blue-500 font-semibold'>netopen.web.id Proxy List</span>");
+    document.setTitle("Welcome to <span class='text-blue-500 font-semibold'>Proxy List</span>");
     document.addInfo(`Total: ${proxyList.length}`);
     document.addInfo(`Page: ${page}/${Math.floor(proxyList.length / PROXY_PER_PAGE)}`);
 
