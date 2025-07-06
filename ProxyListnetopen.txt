@@ -178,53 +178,11 @@
 193.233.193.12,8443,HK,Adcdata.com
 91.217.139.121,8443,HK,Cnservers LLC
 138.2.12.103,14458,HK,Cloudflare Warp
-46.183.186.57,443,HU,Magyar Telekom
-5.182.38.183,443,HU,Stark Industries Solutions
-95.164.23.71,443,HU,Stark Industries Solutions
-77.91.72.82,443,HU,Stark Industries Solutions
 35.219.50.99,443,ID,Google Cloud
 43.218.77.16,1443,ID,Amazon.com
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
 172.232.239.151,587,ID,Akamai Connected Cloud
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
-40.113.60.248,2053,IE,Microsoft Azure
-40.113.60.248,8443,IE,Microsoft Azure
-34.253.234.62,443,IE,Amazon.com
-52.19.178.111,8443,IE,Amazon.com
-38.180.21.33,443,IE,M247 Europe
-54.229.71.228,443,IE,Amazon.com
-3.249.49.224,443,IE,Amazon.com
-54.229.164.147,2053,IE,Amazon.com
-63.32.194.15,8443,IE,Amazon.com
-52.213.11.150,443,IE,Amazon.com
-54.246.42.63,2053,IE,Amazon.com
-95.164.44.192,443,IE,Stark Industries Solutions
-64.176.167.241,2053,IL,Vultr
-64.176.167.241,8443,IL,Vultr
-77.91.69.238,2053,IL,Cloud Lease
-129.159.132.0,2053,IL,Oracle Cloud
-89.46.239.156,2053,IL,Interhost Communication Solutions
-89.46.239.156,8443,IL,Interhost Communication Solutions
-212.80.205.244,2053,IL,O.m.c. Computers & Communications
-94.131.114.54,2053,IL,Stark Industries Solutions
-77.91.69.141,2053,IL,Cloud Lease
-185.239.48.97,2053,IL,SmartApe OU
-129.159.132.0,8443,IL,Oracle Cloud
-77.91.69.238,8443,IL,Cloud Lease
-5.29.142.200,2053,IL,HOTnet
-5.29.142.200,8443,IL,HOTnet
-77.91.69.141,8443,IL,Cloud Lease
-185.239.48.97,8443,IL,SmartApe OU
-77.91.69.146,443,IL,Cloud Lease
-77.91.74.150,2053,IL,Stark Industries Solutions
-212.80.205.244,8443,IL,O.m.c. Computers & Communications
-94.131.114.50,81,IL,Stark Industries Solutions
-77.91.74.150,8443,IL,Stark Industries Solutions
-77.91.69.51,8443,IL,Cloud Lease
-77.91.74.6,443,IL,Stark Industries Solutions
-77.91.69.51,2053,IL,Cloud Lease
-89.221.225.198,8443,IL,Stark Industries Solutions
-89.221.225.198,2053,IL,Stark Industries Solutions
 65.20.82.22,443,IN,Vultr
 115.242.180.202,19000,IN,Jio
 141.148.203.6,443,IN,Oracle Cloud
@@ -261,43 +219,6 @@
 64.227.184.166,8443,IN,Digital Ocean
 216.185.57.194,8443,IN,Leapswitch Networks Private
 65.1.147.200,35979,IN,Cloudflare Warp
-81.31.245.115,1337,IR,TimeWeb
-185.119.4.246,5567,IR,Toseh Samanehay-e Narmafzari-e Negin (Tosan) PJSC
-81.31.245.122,443,IR,TimeWeb
-81.31.245.170,8443,IR,TimeWeb
-81.31.245.115,7777,IR,TimeWeb
-62.60.159.212,2053,IR,Aeza International
-212.237.30.220,443,IT,Aruba Networks
-85.235.151.34,443,IT,Aruba Networks
-129.152.2.127,1488,IT,Oracle Cloud
-38.180.22.20,1001,IT,M247 Europe
-80.211.231.169,443,IT,Aruba Networks
-80.211.22.60,443,IT,Aruba Networks
-188.213.168.52,443,IT,Aruba Networks
-209.227.237.239,8443,IT,Aruba Networks
-209.227.237.239,2053,IT,Aruba Networks
-147.45.51.68,2053,IT,Global Connectivity Solutions Llp
-147.45.51.68,20013,IT,Global Connectivity Solutions Llp
-87.120.237.36,81,IT,G-Core Labs SA
-185.47.172.172,8443,IT,Kamatera Inc
-62.76.234.194,23754,IT,Baxet Group Inc.
-147.45.51.57,8443,IT,Global Connectivity Solutions Llp
-158.180.233.125,55137,IT,Oracle Cloud
-95.164.46.242,443,IT,Stark Industries Solutions
-94.177.199.119,2053,IT,Aruba Networks
-91.201.67.6,443,IT,Melbikomas UAB
-185.247.184.186,2053,IT,Global Connectivity Solutions Llp
-185.247.184.186,8443,IT,Global Connectivity Solutions Llp
-94.177.199.119,8443,IT,Aruba Networks
-82.118.16.12,8443,IT,Green Floid
-147.45.51.57,2053,IT,Global Connectivity Solutions Llp
-91.201.67.78,8443,IT,Melbikomas UAB
-80.211.55.235,443,IT,Aruba Networks
-185.248.144.97,2053,IT,Stark Industries Solutions
-185.248.144.97,8443,IT,Stark Industries Solutions
-89.168.17.228,443,IT,TalkTalk
-77.81.234.27,2053,IT,Aruba Networks
-77.81.234.27,8443,IT,Aruba Networks
 85.208.108.25,8644,JP,Tangram Canada Inc
 45.39.198.40,8080,JP,Akile
 45.39.198.43,8080,JP,Akile
